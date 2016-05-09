@@ -1,0 +1,28 @@
+name: Sigueme
+favicon: null
+layout_spectrum: 0.5348694398999214
+typography_spectrum: 0.8369092226494104
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.43257328774780035
+  lightness: 0.4927833357360214
+  saturation: 0.9891528231091797
+  rhythmicContrast: 0.5281172343529761
+purpose: []
